@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Accueil TV</string>
+    <string name="hint_open">OK pour ouvrir  ·  appui long pour les infos de l\'app</string>
+    <string name="other_apps">Autres apps</string>
+    <string name="no_apps">Aucune application trouvée</string>
+    <string name="cannot_launch">Impossible d\'ouvrir cette application</string>
+</resources>
